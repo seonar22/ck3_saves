@@ -28,12 +28,21 @@ For logging gameplays as tiny AAR.
 1. [Sharaf al-Dawla Muslim, Uqalid Emirate, 1066](img/4_TwoRiver.png), v 1.15, all DLCs, no mod | [savefile](saves/4_TwoRiver.ck3)
     * intent: to test out new formable Beth Nahrain Titular Empire
     * tiny AAR: Could double down on Hindustan, if not forming own cult.
+1. [Temujin, Ogrash, 1178](img/6_temu.png), v 1.16, all DLCs, no mod | [savefile](saves/6_temu.ck3) | reduced adventures to 25 as game is lagging already
+    * intent: to get "The Stallion that Mounts the World""
+    * tiny AAR: Most micro intensive gameplay. No, I don't get that conqueror event usually happen around 1200.
+    * nomadic gov is a fun one to play. Not sure if can be mixed with adventure type characters.
+    * rest of events noteworthy in [this folder](img/6_temu)
 
 ## Planned to play
 1. [Uniting Slavs](https://www.youtube.com/watch?v=fzXxmtcrrA0)
     * koifish is quite overly dramatic, maybe trait of brits or similar. Time for Bruce, and instead of custom character, I prefer to play as Mutimir of Raska.
 1. ~~Guiyi Kingdom~~
     * ~~only severely nerfed Tang remnant  in the game. Even Xi Xia is De Jure for dukedom and counties. And Zhang members are quite capable members, historically. Even with coming barbarian update, this area and character won’t get proper setting like in History. Well, it will be a nice one to play out.~~
+1. Jamukha, Khentil, 1178
+    * Chief rival of Genghis Khan. One of best characters to try alt history.
+1. Bilge, Naiman, 1178
+    * Same situation as Jamukha, but with little time left. Would be a feat, if can pull Greatest of Khan in one lifetime
 1. Gartizia Enekez, Navarra, 867
     * Sancho Garcés is not born yet. so no contemporary play. Still will be an interesting, if not to be following historical records. Basque in Glory
 1. Followings are all from [this video](https://www.youtube.com/watch?v=u7hRAJoJ5LQ)
