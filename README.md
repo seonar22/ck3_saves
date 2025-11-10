@@ -33,6 +33,9 @@ For logging gameplays as tiny AAR.
     * tiny AAR: Most micro intensive gameplay. No, I don't get that conqueror event usually happen around 1200.
     * nomadic gov is a fun one to play. Not sure if can be mixed with adventure type characters.
     * rest of events noteworthy in [this folder](img/6_temu)
+1. [Jarl Haesteinn, Montaigu, 867](img/7_hasteinn_hegemon.png), v 1.18, all DLCs, no mod | [savefile](saves/7_hasteinn_hegemon.ck3)
+    * intent: to get Hegemon title
+    * tiny AAR: Well, should have take exams and get the title
 
 ## Planned to play
 1. [Uniting Slavs](https://www.youtube.com/watch?v=fzXxmtcrrA0)
