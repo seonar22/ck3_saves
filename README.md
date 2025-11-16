@@ -36,6 +36,9 @@ For logging gameplays as tiny AAR.
 1. [Jarl Haesteinn, Montaigu, 867](img/7_hasteinn_hegemon.png), v 1.18, all DLCs, no mod | [savefile](saves/7_hasteinn_hegemon.ck3)
     * intent: to get Hegemon title
     * tiny AAR: Well, should have take exams and get the title
+1. [Qin Guan, Yangzhou, 1066](img/8_qin_guan.png), v 1.18, all DLCs, no mod | [savefile](saves/8_qin_guan.ck3)
+    * intent: to see how court life in Song Dynasty
+    * tiny AAR: leads to many paths. Will upload multiple save files later. 
 
 ## Planned to play
 1. [Uniting Slavs](https://www.youtube.com/watch?v=fzXxmtcrrA0)
