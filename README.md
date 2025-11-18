@@ -39,6 +39,9 @@ For logging gameplays as tiny AAR.
 1. [Qin Guan, Yangzhou, 1066](img/8_qin_guan.png), v 1.18, all DLCs, no mod | [savefile](saves/8_qin_guan.ck3)
     * intent: to see how court life in Song Dynasty
     * tiny AAR: leads to many paths. Will upload multiple save files later. 
+1. [Minamoto Yoritomo, Kawachi, 1178](img/9_yoritomo.png), v 1.18, all DLCs, no mod | [savefile](saves/9_yoritomo.ck3)
+    * intent: legalsize shogunate and become tenno
+    * tiny AAR: that "bug" of Jin Emperor being herder is a huge boost. 
 
 ## Planned to play
 1. [Uniting Slavs](https://www.youtube.com/watch?v=fzXxmtcrrA0)
