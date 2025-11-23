@@ -42,6 +42,16 @@ For logging gameplays as tiny AAR.
 1. [Minamoto Yoritomo, Kawachi, 1178](img/9_yoritomo.png), v 1.18, all DLCs, no mod | [savefile](saves/9_yoritomo.ck3)
     * intent: legalsize shogunate and become tenno
     * tiny AAR: that "bug" of Jin Emperor being herder is a huge boost. 
+1. [Minamoto Yoshitune, Isawa, 1178](img/10_yoshitsune.png), v 1.18, all DLCs, no mod | [savefile](saves/10_yoshitsune.ck3)
+    * intent: well, there was japanese propaganda on Yoshitune becoming Genghis Khan back in WWI era.
+    * tiny AAR: Yoshitune is more like Ubbe Ragnarsson, as in landless adventure play.
+    * that "duel" improvement is script based, normal duel are not working with title. 
+    * hijacking nomadic gov is a real piece of work. 
+    * there should be unique patters on artifacts, like the tiger skin that came along with adventure swansong decision. 
+1. [Ningling Ngwemi Liangcha, Kingdom of Xia, 1066](img/11_liangcha.png), v 1.18, all DLCs, no mod | [savefile](saves/11_liangcha.ck3)
+    * intent: making Xia as kind of historically accurate.
+    * tiny AAR: there should be "situational tributary", not just normal and conquered ones.
+    * PDX should work their homework on naming. The clan's sinicized name before founding of title, is Li. Later Song dyansty gave Zhao title, but father of this character, first emperor, change it into Weiming. Ngwemi is not found anywhere. And Ningling is tangut word for "Grand Prince".
 
 ## Planned to play
 1. [Uniting Slavs](https://www.youtube.com/watch?v=fzXxmtcrrA0)
