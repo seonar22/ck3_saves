@@ -52,6 +52,11 @@ For logging gameplays as tiny AAR.
     * intent: making Xia as kind of historically accurate.
     * tiny AAR: there should be "situational tributary", not just normal and conquered ones.
     * PDX should work their homework on naming. The clan's sinicized name before founding of title, is Li. Later Song dyansty gave Zhao title, but father of this character, first emperor, change it into Weiming. Ngwemi is not found anywhere. And Ningling is tangut word for "Grand Prince".
+1. [Indra, Raja of Kutai, 867](img/12_indra.png), v 1.18, all DLCs, no mod | [savefile](saves/12_indra.ck3)
+    * intent: making wanua empire
+    * tiny AAR: ended up with mandala gov type.
+    * both wanua and mandala are kind of debuffed. If PDX still wanted to keep "Historically" in their playbook for covering up their mistake, they should check the domain limit and vassel limit is actually not reflecting. Might be changed if "situational tributary" is introduced later.
+    * became hegemon as second ruler([save file](saves/12_indra/indra_2_5_man_heg_1.ck3)), due to bugkery in the game, but somehow mandala can work. 
 
 ## Planned to play
 1. [Uniting Slavs](https://www.youtube.com/watch?v=fzXxmtcrrA0)
